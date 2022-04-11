@@ -104,11 +104,11 @@ Over the years, i've learned and worked with different languages and technologie
     </p>
           <b>GraphQL</b>
     <p>
-       <li>Fixing a tiny design bug in the graphiql website <a href="https://github.com/graphql/graphiql/pull/1776">#1776</a></li>
+       <li>fix: search icon misalignment <a href="https://github.com/graphql/graphiql/pull/1776">#1776</a></li>
     </p>
       <b>Google Chrome</b>
     <p>
-       <li>Fixing a tiny design bug in their developers’ website <a href="https://github.com/GoogleChrome/developer.chrome.com/pull/308">#308</a></li>
+       <li>checking whether there's a hero image or not <a href="https://github.com/GoogleChrome/developer.chrome.com/pull/308">#308</a></li>
     </p>
   </div>
 </div>
