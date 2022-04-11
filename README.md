@@ -32,7 +32,7 @@ Over the years, i've learned and worked with different languages and technologie
 - 🔭 I’m currently working on making the world a better place by contributing to the open source community in my free time, beside controlling smart things at XIOT in the work time. 
   
 
-- 🌱 I’m always learning about databases, parsers and compilers, and learning more about computer graphics.  
+- 🌱 I’m always learning about databases, parsers and compilers, and i'm always learning more about computer graphics and software engineering.  
   
 
 - ❓ Ask me about anything related to Databases, IOT, backend or general topics about software engineering, if I didn't help, I will definitely guide you to a reference or a link. 
@@ -79,7 +79,7 @@ Over the years, i've learned and worked with different languages and technologie
        <li>Adding over keyword to the contexts and modify the Expression allowed keywords <a href="https://github.com/phpmyadmin/sql-parser/pull/360">#360</a></li>
        <li>Completing, refactoring an improving the WITH statements parser <a href="https://github.com/phpmyadmin/sql-parser/pull/363">#363</a></li>
     </p>
-      <b>Joi ( Validation library )</b>
+      <b>Joi</b>
     <p>
        <li>Fixing an unhandled feature that fill the default values when used in an ordered array schema <a href="https://github.com/sideway/joi/pull/2548">#2548</a></li>
     </p>
@@ -89,7 +89,7 @@ Over the years, i've learned and worked with different languages and technologie
       <li>Exposing localeProperties property to access the properties of current locale <a href="https://github.com/nuxt-community/i18n-module/pull/1016">#1016</a></li>
       <li>Fixing localeProperties became undefined when <i18n> component is used <a href="https://github.com/nuxt-community/i18n-module/pull/1043">#1043</a></li>
     </p>
-        <b>Nuxt-i18n</b>
+        <b>PhpMyAdmin</b>
     <p>
        <li>Fixing a bug that occurs when default current_timestamp is used with on update current_timestamp <a href="https://github.com/phpmyadmin/phpmyadmin/pull/16653">#16653</a></li>
              <li>Fixing a query generation bug which allows specifying a length for JSON fields <a href="https://github.com/phpmyadmin/phpmyadmin/pull/16643">#16643</a></li>
