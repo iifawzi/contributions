@@ -14,7 +14,7 @@
   
 
 ### Glad to see you here!  
-I'm An ambitious highly motivated engineer, fueled by high energy levels and boundless enthusiasm.   <br/>
+I'm an ambitious highly motivated engineer, fueled by high energy levels and boundless enthusiasm.   <br/>
 
 My learning journey started with the backend development when I was a child, I was almost 12 years old when I started learning PHP. 
 Over the years, i've learned and worked with different languages and technologies, but recentely i'm working mainly with the typescript/javascript stack at my day-to-day work. 
