@@ -10,14 +10,11 @@
 <a href="https://www.linkedin.com/in/iifawzi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/izozf" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
 
   
 
 ### Glad to see you here!  
-An ambitious highly motivated engineer, fueled by high energy levels and boundless enthusiasm.   <br/>
+I'm An ambitious highly motivated engineer, fueled by high energy levels and boundless enthusiasm.   <br/>
 
 My learning journey started with the backend development when I was a child, I was almost 12 years old when I started learning PHP. 
 Over the years, i've learned and worked with different languages and technologies, but recentely i'm working mainly with the typescript/javascript stack at my day-to-day work. 
