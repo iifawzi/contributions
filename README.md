@@ -22,10 +22,10 @@ Over the years, i've learned and worked with different languages and technologie
 ### Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on making the world a better place by contributing to the open source community in my free time, beside controlling smart things at XIOT in the work time. 
+- 🔭 I’m currently working on making the world a better place by contributing open source in my free time, and controlling smart things at XIOT at the work time. 
   
 
-- 🌱 I’m always learning about databases, parsers and compilers, and i'm always learning more about computer graphics and software engineering.  
+- 🌱 I’m always learning about databases, parsers and compilers, Also i'm always looking forward to learn more about computer graphics and software engineering.
   
 
 - ❓ Ask me about anything related to Databases, IOT, backend or general topics about software engineering, if I didn't help, I will definitely guide you to a reference or a link. 
@@ -53,6 +53,10 @@ Over the years, i've learned and worked with different languages and technologie
     </p>
     <b>SQL Parser</b>
     <p>
+        <li>Supporting table structure with COMPRESSED columns <a href="https://github.com/phpmyadmin/sql-parser/pull/380">#380</a></li>
+        <li>Fixing the additional body tokens issue when create view statements  <a href="https://github.com/phpmyadmin/sql-parser/pull/371">#371</a></li>
+       <li>Supporting ALTER queries of PARTITIONS <a href="https://github.com/phpmyadmin/sql-parser/pull/381">#381</a></li>
+       <li>Supporting the compression options in create table statements <a href="https://github.com/phpmyadmin/sql-parser/pull/382">#382</a></li>
        <li>Fixing buffered query when has odd number of backslashes in the end <a href="https://github.com/phpmyadmin/sql-parser/pull/340">#340</a></li>
        <li>Fixing the issue of ignoring the body tokens when creating views with `union` <a href="https://github.com/phpmyadmin/sql-parser/pull/343">#343</a></li>
        <li>Fixing parser errors when adding columns with SET type <a href="https://github.com/phpmyadmin/sql-parser/pull/344">#344</a></li>
@@ -75,6 +79,7 @@ Over the years, i've learned and worked with different languages and technologie
     </p>
         <b>PhpMyAdmin</b>
     <p>
+        <li>Supporting the Page/Column Compression options for mariaDB <a href="https://github.com/phpmyadmin/phpmyadmin/pull/17657">#17657</a></li>
        <li>Fixing a bug that occurs when default current_timestamp is used with on update current_timestamp <a href="https://github.com/phpmyadmin/phpmyadmin/pull/16653">#16653</a></li>
              <li>Fixing a query generation bug which allows specifying a length for JSON fields <a href="https://github.com/phpmyadmin/phpmyadmin/pull/16643">#16643</a></li>
       <li>Fixing the designer issue - supporting the RTL mode <a href="https://github.com/phpmyadmin/phpmyadmin/pull/16814">#16814</a></li>
