@@ -47,11 +47,11 @@ Over the years, i've learned and worked with different languages and technologie
 <hr/>
 <div align="left">  
   <div>
-      <b>Facebook/Jest</b>
+      <b><a href="https://github.com/facebook/jest/">Facebook/Jest</a></b>
     <p>
       <li>Enhancing the toHaveProperty matcher to support array selection <a href="https://github.com/facebook/jest/pull/12092">#12092</a></li>
     </p>
-    <b>SQL Parser</b>
+    <b><a href="https://github.com/phpmyadmin/sql-parser/">PhpMyAdmin/SQL-Parser</a></b>
     <p>
         <li>Supporting table structure with COMPRESSED columns <a href="https://github.com/phpmyadmin/sql-parser/pull/380">#380</a></li>
         <li>Fixing the additional body tokens issue when create view statements  <a href="https://github.com/phpmyadmin/sql-parser/pull/371">#371</a></li>
@@ -67,17 +67,21 @@ Over the years, i've learned and worked with different languages and technologie
        <li>Adding over keyword to the contexts and modify the Expression allowed keywords <a href="https://github.com/phpmyadmin/sql-parser/pull/360">#360</a></li>
        <li>Completing, refactoring an improving the WITH statements parser <a href="https://github.com/phpmyadmin/sql-parser/pull/363">#363</a></li>
     </p>
-      <b>Joi</b>
+       <b><a href="https://github.com/sideway/joi/">Joi</a></b>
     <p>
        <li>Fixing an unhandled feature that fill the default values when used in an ordered array schema <a href="https://github.com/sideway/joi/pull/2548">#2548</a></li>
     </p>
-    <b>Nuxt-i18n</b>
+     <b><a href="https://github.com/appwrite">Appwrite</a></b>
+    <p>
+       <li>Fixing #3583 - create team membership to return added person info <a href="https://github.com/appwrite/appwrite/pull/3590">#3590</a></li>
+    </p>
+    <b><a href="https://github.com/nuxt-community/i18n-module/">Nuxt-community/i18n-module</a></b>
     <p>
        <li>Adding direction property and defaultDirection option <a href="https://github.com/nuxt-community/i18n-module/pull/1023">#1023</a></li>
       <li>Exposing localeProperties property to access the properties of current locale <a href="https://github.com/nuxt-community/i18n-module/pull/1016">#1016</a></li>
       <li>Fixing localeProperties became undefined when <i18n> component is used <a href="https://github.com/nuxt-community/i18n-module/pull/1043">#1043</a></li>
     </p>
-        <b>PhpMyAdmin</b>
+        <b><a href="https://github.com/phpmyadmin/phpmyadmin/">PhpMyAdmin</a></b>
     <p>
         <li>Supporting the Page/Column Compression options for mariaDB <a href="https://github.com/phpmyadmin/phpmyadmin/pull/17657">#17657</a></li>
        <li>Fixing a bug that occurs when default current_timestamp is used with on update current_timestamp <a href="https://github.com/phpmyadmin/phpmyadmin/pull/16653">#16653</a></li>
@@ -91,11 +95,11 @@ Over the years, i've learned and worked with different languages and technologie
        <li>Fixing all issues related to assigning privileges to databases with `_`  <a href="https://github.com/phpmyadmin/phpmyadmin/pull/17015">#17015</a></li>
              <li>Fixing the issue of hiding the structure options while exporting  <a href="https://github.com/phpmyadmin/phpmyadmin/pull/17043">#17043</a></li>
     </p>
-          <b>GraphQL</b>
+          <b><a href="https://github.com/graphql/graphiql/">Graphql/Graphiql</a></b>
     <p>
        <li>Fixing the search icon misalignment <a href="https://github.com/graphql/graphiql/pull/1776">#1776</a></li>
     </p>
-      <b>Google Chrome</b>
+      <b><a href="https://github.com/GoogleChrome/developer.chrome.com/">GoogleChrome/developer.chrome.com</a></b>
     <p>
        <li>Checking whether there's a hero image in the blog post or not <a href="https://github.com/GoogleChrome/developer.chrome.com/pull/308">#308</a></li>
     </p>
