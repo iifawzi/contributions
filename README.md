@@ -2,7 +2,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Currently working on making the world a better place by contributing to open source in my free time, and controlling smart things at XIOT at the work time. 
+- 🔭 Currently working on making the world a better place by contributing to open source in my free time. 
   
 
 - 🌱 Always learning about databases, parsers and compilers, Also i'm always looking forward to learn more about software engineering.
@@ -10,10 +10,6 @@
 
 - ❓ Ask me about anything related to Databases, IOT, backend or general topics about software engineering, if I didn't help, I will definitely guide you to a reference or a link. 
   
-
-- ⚡ Fun fact: I keep night shift switched on at all times   
-
-
 </td><td valign="top" width="50%">
 
 <div align="center">
