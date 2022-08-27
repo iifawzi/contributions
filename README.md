@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Fawzi Abdulfattah!  
 
-### Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Currently working on making the world a better place by contributing to open source in my free time, and controlling smart things at XIOT at the work time. 
