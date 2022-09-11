@@ -1,14 +1,14 @@
-## Hey 👋, I'm Fawzi Abdulfattah!  
+## Hello there! 🚀☁️,
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Currently working on making the world a better place by contributing to open source in my free time. 
+- 🔭 Currently working on making the world a better place by contributing to different open source projects in my free time. 
   
 
-- 🌱 Always learning about databases, parsers and compilers, Also i'm always looking forward to learn more about software engineering.
+- 🌱 Always learning about databases, parsers, compilers, and software engineering.
   
 
-- ❓ Ask me about anything related to Databases, IOT, backend or general topics about software engineering, if I didn't help, I will definitely guide you to a reference or a link. 
+- ❓ Ask me about anything related to Databases, IOT, backend or general topics about software engineering, if I didn't help, I will definitely guide you to a reference or a tutorial. 
   
 </td><td valign="top" width="50%">
 
