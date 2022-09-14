@@ -71,6 +71,10 @@
        <li>Fixing all issues related to assigning privileges to databases with `_`  <a href="https://github.com/phpmyadmin/phpmyadmin/pull/17015">#17015</a></li>
              <li>Fixing the issue of hiding the structure options while exporting  <a href="https://github.com/phpmyadmin/phpmyadmin/pull/17043">#17043</a></li>
     </p>
+       <b><a target="_blank" href="https://github.com/outline/outline">Outline</a></b>
+    <p>
+        <li>Improving the urls to not break protocols and testing the urls utilities <a href="https://github.com/outline/outline/pull/3995">#3995</a></li>
+    </p>
           <b><a target="_blank" href="https://github.com/graphql/graphiql/">Graphql/Graphiql</a></b>
     <p>
        <li>Fixing the search icon misalignment <a href="https://github.com/graphql/graphiql/pull/1776">#1776</a></li>
