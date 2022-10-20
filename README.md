@@ -1,23 +1,8 @@
 ## Hello there! 🚀☁️,
 
-<table><tr><td valign="top" width="50%">
 
 - 🔭 Currently working on making the world a better place by contributing to different open source projects in my free time. 
-  
-
 - 🌱 Always learning about databases, parsers, compilers, and software engineering.
-  
-
-- ❓ Ask me about anything related to Databases, IOT, backend or general topics about software engineering, if I didn't help, I will definitely guide you to a reference or a tutorial. 
-  
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 ### Contributions
 <hr/>
