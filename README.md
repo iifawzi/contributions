@@ -10,9 +10,9 @@
   <div>
       <b><a target="_blank" href="https://github.com/fastify">Fastify</a></b>
       <p>
-      <li>Supporting different content-type responses @ Fastify/Core <a href="https://github.com/fastify/fastify/pull/4264">#175</a></li>
-      <li>rendering the syntax of different content types responses @ Fatify/Swagger <a href="https://github.com/fastify/fastify-swagger/pull/665">#665</a></li>
-      <li>Introducing the default relation plugin option @ Fatify/Auth <a href="https://github.com/fastify/fastify-auth/pull/175">#175</a></li>
+      <li>Supporting different content-type responses <a href="https://github.com/fastify/fastify/pull/4264">#175</a></li>
+      <li>rendering the syntax of different content types responses @ Fastify/Swagger <a href="https://github.com/fastify/fastify-swagger/pull/665">#665</a></li>
+      <li>Introducing the default relation plugin option @ Fastify/Auth <a href="https://github.com/fastify/fastify-auth/pull/175">#175</a></li>
       <li>Updating typescript example according to the validation changes <a href="https://github.com/fastify/fastify/pull/4261">#4261</a></li>
       </p>
       <b><a target="_blank" href="https://github.com/facebook/jest/">Facebook/Jest</a></b>
