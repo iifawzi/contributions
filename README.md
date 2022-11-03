@@ -1,9 +1,3 @@
-## Hello there! 🚀☁️,
-
-
-- 🔭 Currently working on making the world a better place by contributing to different open source projects in my free time. 
-- 🌱 Always learning about databases, parsers, compilers, and software engineering.
-
 ### Contributions
 <hr/>
 <div align="left">  
