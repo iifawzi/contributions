@@ -1,5 +1,3 @@
-### Contributions
-<hr/>
 <div align="left">  
   <div>
       <b><a target="_blank" href="https://github.com/fastify">Fastify</a></b>
