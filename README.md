@@ -32,6 +32,10 @@
        <li>Implementing the EXPLAIN Parser <a href="https://github.com/phpmyadmin/sql-parser/pull/389">#389</a></li>
        <li>Allowing the NOT keyword as an expression <a href="https://github.com/phpmyadmin/sql-parser/pull/391">#391</a></li>
        <li>Updated contexts to contain multipoint and multipolygon data types <a href="https://github.com/phpmyadmin/sql-parser/pull/393">#393</a></li>
+      <li>Testing the contextGenerator class <a href="https://github.com/phpmyadmin/sql-parser/pull/394">#394</a></li>
+      <li>Performance improvement to use less the "nextToken()" function  <a href="https://github.com/phpmyadmin/sql-parser/pull/397">#397</a></li>
+      <li>Improving the Expression component's allowed keywords <a href="https://github.com/phpmyadmin/sql-parser/pull/399">#399</a></li>
+      <li>Fixing tests on php 8.3 - making getMergedOptions protected <a href="https://github.com/phpmyadmin/sql-parser/pull/400">#400</a></li>
     </p>
        <b><a target="_blank" href="https://github.com/sideway/joi/">Joi</a></b>
     <p>
