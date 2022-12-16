@@ -11,6 +11,10 @@
     <p>
       <li>Enhancing the toHaveProperty matcher to support array selection <a href="https://github.com/facebook/jest/pull/12092">#12092</a></li>
     </p>
+          <b><a target="_blank" href="https://github.com/socketio">Socket.IO</a></b>
+    <p>
+      <li>Adding an option to avoid the added trailing slash to the path <a href="https://github.com/socketio/engine.io-client/pull/694">#694</a></li>
+    </p>
     <b><a target="_blank" href="https://github.com/phpmyadmin/sql-parser/">PhpMyAdmin/SQL-Parser</a></b>
     <p>
       <li>Fixing buffered query when has odd number of backslashes in the end <a href="https://github.com/phpmyadmin/sql-parser/pull/340">#340</a></li>
