@@ -79,10 +79,7 @@
     <p>
        <li>Fixing the search icon misalignment <a href="https://github.com/graphql/graphiql/pull/1776">#1776</a></li>
     </p>
-      <b><a target="_blank" href="https://github.com/GoogleChrome/developer.chrome.com/">GoogleChrome/developer.chrome.com</a></b>
-    <p>
-       <li>Checking whether there's a hero image in the blog post or not <a href="https://github.com/GoogleChrome/developer.chrome.com/pull/308">#308</a></li>
-    </p>
+     
   </div>
 </div>
 <hr/>
