@@ -13,7 +13,7 @@
     </p>
           <b><a target="_blank" href="https://github.com/socketio">Socket.IO</a></b>
     <p>
-      <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Client) <a href="https://github.com/socketio/engine.io-client/pull/694">#694</a></li>
+      <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Client) <a href="https://github.com/socketio/engine.io-client/pull/694">#694</a>
     </p>
      <p>
       <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Server) <a href="https://github.com/socketio/engine.io/pull/655">#655</a></li>
