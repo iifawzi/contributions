@@ -11,15 +11,18 @@
     <p>
       <li>Enhancing the toHaveProperty matcher to support array selection <a href="https://github.com/facebook/jest/pull/12092">#12092</a></li>
     </p>
+    <b><a target="_blank" href="https://github.com/strapi/strapi">Strapi</a></b>
+    <p>
+      <li>Publishing single-type if config is true, and allow updating the drafts - api <a href="https://github.com/strapi/strapi/pull/14767">#14767</a></li>
+       <li>Lower casing during check to avoid duplication issues <a href="https://github.com/strapi/strapi/pull/14557">#14557</a></li>
+      <li>Validating the components on creation and direct schema edits <a href="https://github.com/strapi/strapi/pull/14678">#14678</a></li>
+    </p>
           <b><a target="_blank" href="https://github.com/socketio">Socket.IO</a></b>
     <p>
       <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Client) <a href="https://github.com/socketio/engine.io-client/pull/694">#694</a>
+        <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Server) <a href="https://github.com/socketio/engine.io/pull/655">#655</a>
     </p>
-     <p>
-      <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Server) <a href="https://github.com/socketio/engine.io/pull/655">#655</a></li>
-    </p>
-    
-    <b><a target="_blank" href="https://github.com/phpmyadmin/sql-parser/">PhpMyAdmin/SQL-Parser</a></b>
+          <b><a target="_blank" href="https://github.com/phpmyadmin/sql-parser/">PhpMyAdmin/SQL-Parser</a></b>
     <p>
       <li>Fixing buffered query when has odd number of backslashes in the end <a href="https://github.com/phpmyadmin/sql-parser/pull/340">#340</a></li>
       <li>Fixing the issue of ignoring the body tokens when creating views with `union` <a href="https://github.com/phpmyadmin/sql-parser/pull/343">#343</a></li>
