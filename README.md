@@ -1,6 +1,10 @@
 <div align="left">  
   <div>
       <b><a target="_blank" href="https://github.com/fastify">Fastify</a></b>
+    <p>
+    </br>
+     Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture, inspired by Hapi and Express. As far as we know, it is one of the fastest web frameworks in town.
+    </p>
       <p>
       <li>Supporting different content-type responses <a href="https://github.com/fastify/fastify/pull/4264">#175</a></li>
       <li>rendering the syntax of different content types responses @ Fastify/Swagger <a href="https://github.com/fastify/fastify-swagger/pull/665">#665</a></li>
@@ -8,10 +12,18 @@
       <li>Updating typescript example according to the validation changes <a href="https://github.com/fastify/fastify/pull/4261">#4261</a></li>
       </p>
       <b><a target="_blank" href="https://github.com/facebook/jest/">Facebook/Jest</a></b>
+        <p>
+    </br>
+Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+    </p>
     <p>
       <li>Enhancing the toHaveProperty matcher to support array selection <a href="https://github.com/facebook/jest/pull/12092">#12092</a></li>
     </p>
     <b><a target="_blank" href="https://github.com/strapi/strapi">Strapi</a></b>
+            <p>
+    </br>
+Strapi is an open-source, Node. js based, Headless CMS that saves developers a lot of development time while giving them the freedom to use their favorite tools and frameworks.
+    </p>
     <p>
       <li>Publishing single-type if config is true, and allow updating the drafts - api <a href="https://github.com/strapi/strapi/pull/14767">#14767</a></li>
        <li>Lower casing during check to avoid duplication issues <a href="https://github.com/strapi/strapi/pull/14557">#14557</a></li>
@@ -19,11 +31,18 @@
        <li>Allowing UID attributes to be created without attached fields <a href="https://github.com/strapi/strapi/pull/14583">#14583</a></li>
     </p>
           <b><a target="_blank" href="https://github.com/socketio">Socket.IO</a></b>
+                      <p>
+    </br>
+Socket.IO is a library that enables low-latency, bidirectional and event-based communication between a client and a server.
+    </p>
     <p>
       <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Client) <a href="https://github.com/socketio/engine.io-client/pull/694">#694</a>
         <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Server) <a href="https://github.com/socketio/engine.io/pull/655">#655</a>
     </p>
           <b><a target="_blank" href="https://github.com/phpmyadmin/sql-parser/">PhpMyAdmin/SQL-Parser</a></b>
+                                <p>
+The backbone of PhpMyAdmin, a validating SQL lexer and parser with a focus on MySQL dialect.
+    </p>
     <p>
       <li>Fixing buffered query when has odd number of backslashes in the end <a href="https://github.com/phpmyadmin/sql-parser/pull/340">#340</a></li>
       <li>Fixing the issue of ignoring the body tokens when creating views with `union` <a href="https://github.com/phpmyadmin/sql-parser/pull/343">#343</a></li>
@@ -52,6 +71,10 @@
       <li>Fixing createStatement function's options <a href="https://github.com/phpmyadmin/sql-parser/pull/411">#411</a></li>
     </p>
        <b><a target="_blank" href="https://github.com/sideway/joi/">Joi</a></b>
+                                       <p>
+    </br>
+JOI is the most powerful schema description language and data validator for JavaScript.
+    </p>
     <p>
        <li>Fixing an unhandled feature that fill the default values when used in an ordered array schema <a href="https://github.com/sideway/joi/pull/2548">#2548</a></li>
     </p>
@@ -60,12 +83,20 @@
        <li>Fixing the create team membership API to return added person information <a href="https://github.com/appwrite/appwrite/pull/3590">#3590</a></li>
     </p>
     <b><a target="_blank" href="https://github.com/nuxt-community/i18n-module/">Nuxt-community/i18n-module</a></b>
+                                           <p>
+    </br>
+i18n-module is enabling the i18n functionalities for Vue/Nuxt Projects
+    </p>
     <p>
        <li>Adding direction property and defaultDirection option <a href="https://github.com/nuxt-community/i18n-module/pull/1023">#1023</a></li>
       <li>Exposing localeProperties property to access the properties of current locale <a href="https://github.com/nuxt-community/i18n-module/pull/1016">#1016</a></li>
       <li>Fixing localeProperties became undefined when <i18n> component is used <a href="https://github.com/nuxt-community/i18n-module/pull/1043">#1043</a></li>
     </p>
         <b><a target="_blank" href="https://github.com/phpmyadmin/phpmyadmin/">PhpMyAdmin</a></b>
+                                                   <p>
+    </br>
+PhpMyAdmin, is the most used MySQL management tool since 1998!
+    </p>
     <p>
       <li>Fixing a query generation bug which allows specifying a length for JSON fields <a href="https://github.com/phpmyadmin/phpmyadmin/pull/16643">#16643</a></li>
              <li>Fixing a bug that occurs when default current_timestamp is used with on update current_timestamp <a href="https://github.com/phpmyadmin/phpmyadmin/pull/16653">#16653</a></li>
@@ -83,10 +114,18 @@
        <li>Fixing clicking on JSON columns triggers update query <a href="https://github.com/phpmyadmin/phpmyadmin/pull/17976">#17976</a></li>
     </p>
        <b><a target="_blank" href="https://github.com/outline/outline">Outline</a></b>
+                                                         <p>
+    </br>
+The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+    </p>
     <p>
         <li>Improving the urls to not break protocols and testing the urls utilities <a href="https://github.com/outline/outline/pull/3995">#3995</a></li>
     </p>
           <b><a target="_blank" href="https://github.com/graphql/graphiql/">Graphql/Graphiql</a></b>
+                                                                   <p>
+    </br>
+GraphiQL is the GraphQL integrated development environment (IDE).
+    </p>
     <p>
        <li>Fixing the search icon misalignment <a href="https://github.com/graphql/graphiql/pull/1776">#1776</a></li>
     </p>
