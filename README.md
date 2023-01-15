@@ -16,6 +16,7 @@
       <li>Publishing single-type if config is true, and allow updating the drafts - api <a href="https://github.com/strapi/strapi/pull/14767">#14767</a></li>
        <li>Lower casing during check to avoid duplication issues <a href="https://github.com/strapi/strapi/pull/14557">#14557</a></li>
       <li>Validating the components on creation and direct schema edits <a href="https://github.com/strapi/strapi/pull/14678">#14678</a></li>
+       <li>Allowing UID attributes to be created without attached fields <a href="https://github.com/strapi/strapi/pull/14583">#14583</a></li>
     </p>
           <b><a target="_blank" href="https://github.com/socketio">Socket.IO</a></b>
     <p>
@@ -47,6 +48,8 @@
       <li>Performance improvement to use less the "nextToken()" function  <a href="https://github.com/phpmyadmin/sql-parser/pull/397">#397</a></li>
       <li>Improving the Expression component's allowed keywords <a href="https://github.com/phpmyadmin/sql-parser/pull/399">#399</a></li>
       <li>Fixing tests on php 8.3 - making getMergedOptions protected <a href="https://github.com/phpmyadmin/sql-parser/pull/400">#400</a></li>
+        <li>Fixing the alter operation table options <a href="https://github.com/phpmyadmin/sql-parser/pull/410">#410</a></li>
+      <li>Fixing createStatement function's options <a href="https://github.com/phpmyadmin/sql-parser/pull/411">#411</a></li>
     </p>
        <b><a target="_blank" href="https://github.com/sideway/joi/">Joi</a></b>
     <p>
@@ -77,6 +80,7 @@
              <li>Fixing the issues regarding granting/showing privileges from privileges tab <a href="https://github.com/phpmyadmin/phpmyadmin/pull/17045">#17045</a></li>
       <li>Supporting the Page/Column Compression options for mariaDB <a href="https://github.com/phpmyadmin/phpmyadmin/pull/17657">#17657</a></li>
       <li>default to "Full texts" when running explain statements <a href="https://github.com/phpmyadmin/phpmyadmin/pull/17906">#17906</a></li>
+       <li>Fixing clicking on JSON columns triggers update query <a href="https://github.com/phpmyadmin/phpmyadmin/pull/17976">#17976</a></li>
     </p>
        <b><a target="_blank" href="https://github.com/outline/outline">Outline</a></b>
     <p>
