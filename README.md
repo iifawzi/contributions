@@ -36,8 +36,8 @@ Strapi is an open-source, Node. js based, Headless CMS that saves developers a l
 Socket.IO is a library that enables low-latency, bidirectional and event-based communication between a client and a server.
     </p>
     <p>
-      <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Client) <a href="https://github.com/socketio/engine.io-client/pull/694">#694</a>
-        <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Server) <a href="https://github.com/socketio/engine.io/pull/655">#655</a>
+      <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Client) <a href="https://github.com/socketio/engine.io-client/commit/21a6e1219add92157c5442537d24fbe1129a50f5">#694</a>
+        <li>Adding an option to avoid the added trailing slash to the path (Socket's engine Server) <a href="https://github.com/socketio/engine.io/commit/d0fd4746afa396297f07bb62e539b0c1c4018d7c">#655</a>
     </p>
           <b><a target="_blank" href="https://github.com/phpmyadmin/sql-parser/">PhpMyAdmin/SQL-Parser</a></b>
                                 <p>
