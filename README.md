@@ -69,6 +69,7 @@ The backbone of PhpMyAdmin, a validating SQL lexer and parser with a focus on My
       <li>Fixing tests on php 8.3 - making getMergedOptions protected <a href="https://github.com/phpmyadmin/sql-parser/pull/400">#400</a></li>
         <li>Fixing the alter operation table options <a href="https://github.com/phpmyadmin/sql-parser/pull/410">#410</a></li>
       <li>Fixing createStatement function's options <a href="https://github.com/phpmyadmin/sql-parser/pull/411">#411</a></li>
+        <li>Adding guard checks before checking keyword <a href="https://github.com/phpmyadmin/sql-parser/pull/414">#414</a></li>
     </p>
        <b><a target="_blank" href="https://github.com/sideway/joi/">Joi</a></b>
                                        <p>
