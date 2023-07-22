@@ -36,9 +36,6 @@ Strapi is an open-source, Node. js based, Headless CMS that saves developers a l
     </p>
     <p>
       <li>Publishing single-type if config is true, and allow updating the drafts - api <a href="https://github.com/strapi/strapi/pull/14767">#14767</a></li>
-       <li>Lower casing during check to avoid duplication issues <a href="https://github.com/strapi/strapi/pull/14557">#14557</a></li>
-      <li>Validating the components on creation and direct schema edits <a href="https://github.com/strapi/strapi/pull/14678">#14678</a></li>
-       <li>Allowing UID attributes to be created without attached fields <a href="https://github.com/strapi/strapi/pull/14583">#14583</a></li>
     </p>
           <b><a target="_blank" href="https://github.com/socketio">Socket.IO</a></b>
                       <p>
