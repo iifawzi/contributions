@@ -13,8 +13,7 @@
         <p>
       <b><a target="_blank" href="https://github.com/fastify">Fastify</a></b>
     <p>
-    </br>
-     Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture, inspired by Hapi and Express. As far as we know, it is one of the fastest web frameworks in town.
+    Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture, inspired by Hapi and Express. As far as we know, it is one of the fastest web frameworks in town.
     </p>
       <p>
       <li>Supporting different content-type responses <a href="https://github.com/fastify/fastify/pull/4264">#175</a></li>
