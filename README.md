@@ -37,6 +37,16 @@ ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, 
     <p>
       <li>Fixing QueryBuilder makes different parameter identifiers for same parameter <a href="https://github.com/typeorm/typeorm/pull/10327">#10327</a></li>
     </p>
+              <b><a target="_blank" href="https://github.com/beekeeper-studio/beekeeper-studio">beekeeper-studio</a></b>
+        <p>
+    </br>
+Modern and easy-to-use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+    </p>
+    <p>
+    <li>Honoring compound foreign keys in table structure and tables navigation <a href="https://github.com/beekeeper-studio/beekeeper-studio/pull/1715">#1715</a></li>
+    <li>Allowing adding records to tables with no primary key <a href="https://github.com/beekeeper-studio/beekeeper-studio/pull/1691">#1691</a></li>
+    <li>Adding shortcut to switch between multiple query results <a href="https://github.com/beekeeper-studio/beekeeper-studio/pull/1686">#1686</a></li>
+    </p>
     <b><a target="_blank" href="https://github.com/strapi/strapi">Strapi</a></b>
             <p>
     </br>
