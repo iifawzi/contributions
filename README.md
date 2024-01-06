@@ -29,6 +29,14 @@ Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
     <p>
       <li>Enhancing the toHaveProperty matcher to support array selection <a href="https://github.com/facebook/jest/pull/12092">#12092</a></li>
     </p>
+          <b><a target="_blank" href="https://github.com/typeorm/typeorm">Typeorm</a></b>
+        <p>
+    </br>
+ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+    </p>
+    <p>
+      <li>Fixing QueryBuilder makes different parameter identifiers for same parameter <a href="https://github.com/typeorm/typeorm/pull/10327">#10327</a></li>
+    </p>
     <b><a target="_blank" href="https://github.com/strapi/strapi">Strapi</a></b>
             <p>
     </br>
