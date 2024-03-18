@@ -6,9 +6,9 @@
      Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation, and understanding support along with lightweight debugging, a rich extensibility model, and lightweight integration with existing tools.
     </p>
      <p>
+       <li>feat: adding tests count badge for the testing explorer <a href="https://github.com/microsoft/vscode/pull/182399">#182399</a></li>
       <li>feat: adding optional support for auto playing and looping videos <a href="https://github.com/microsoft/vscode/pull/184758">#184758</a></li>
       <li>fix: mark successive dots as noise and invalidate jinja syntax abbreviations @ Microsoft/vscode-emmet-helper <a href="https://github.com/microsoft/vscode-emmet-helper/pull/80">#80</a></li>
-      <li>feat: adding tests count badge for the testing explorer <a href="https://github.com/microsoft/vscode/pull/182399">#182399</a></li>
      </p>
         <p>
       <b><a target="_blank" href="https://github.com/fastify">Fastify</a></b>
