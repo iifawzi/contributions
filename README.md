@@ -108,7 +108,7 @@ JOI is the most powerful schema description language and data validator for Java
     <p>
        <li>Fixing the create team membership API to return added person information <a href="https://github.com/appwrite/appwrite/pull/3590">#3590</a></li>
     </p>
-    <b><a target="_blank" href="https://github.com/nuxt-community/i18n-module/">Nuxt-community/i18n-module</a></b>
+    <b><a target="_blank" href="https://github.com/nuxt-modules/i18n">Nuxt-modules/i18n</a></b>
                                            <p>
     </br>
 i18n-module is enabling the i18n functionalities for Vue/Nuxt Projects
