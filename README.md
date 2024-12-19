@@ -10,6 +10,14 @@
       <li>feat: adding optional support for auto playing and looping videos <a href="https://github.com/microsoft/vscode/pull/184758">#184758</a></li>
       <li>fix: mark successive dots as noise and invalidate jinja syntax abbreviations @ Microsoft/vscode-emmet-helper <a href="https://github.com/microsoft/vscode-emmet-helper/pull/80">#80</a></li>
      </p>
+          <b><a target="_blank" href="https://github.com/microsoft/vscode">Nest Framework</a></b>
+        <p>
+    </br>
+A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript
+    </p>
+     <p>
+       <li>feat: refactoring and extending the support of validation property assignments <a href="https://github.com/nestjs/swagger/pull/2742">#2742</a></li>
+     </p>
         <p>
       <b><a target="_blank" href="https://github.com/fastify">Fastify</a></b>
     <p>
